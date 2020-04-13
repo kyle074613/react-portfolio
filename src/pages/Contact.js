@@ -3,10 +3,9 @@ import React from 'react';
 function Contact() {
     return (
         <div className="row border content">
-
-            <h2>Contact Me</h2>
-
             <div className='col-12'>
+                <h2>Contact Me</h2>
+
                 Name
                 <br />
                 <input className="nameinput w-100 my-1" type="text" name="FullName" placeholder="John Smith" />

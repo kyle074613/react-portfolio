@@ -4,10 +4,9 @@ import MyPic from '../assets/images/Pic.jpg'
 function About() {
     return (
         <div className="row border content">
-
-            <h2>About Me</h2>
-
             <div className="col-12">
+                <h2>About Me</h2>
+
                 <div className="col-md-5 col-12 p-0 mr-3 mb-3 mb-md-0 float-left">
                     <img src={MyPic} className="img-fluid w-100" alt="Kyle" />
                 </div>
