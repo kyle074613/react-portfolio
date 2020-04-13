@@ -9,8 +9,8 @@ import Project2Image from '../assets/images/Project2.PNG';
 
 function Portfolio() {
     return (
-        <div class="row border content">
-            <div class="col-12">
+        <div className="row border content">
+            <div className="col-12">
                 <h2>Portfolio</h2>
                 <div className="row my-3">
                     <Project

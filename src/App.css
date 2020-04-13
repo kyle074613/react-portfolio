@@ -29,6 +29,10 @@ footer{
     padding-bottom: 5px;
 }
 
+.card{
+    box-shadow: 2px 2px #cccccc;
+}
+
 .wrapper {
   min-height: 100%;
   height: auto;
@@ -63,6 +67,9 @@ footer{
     overflow: auto;
 }
 
+#root{
+    height: 100%;
+}
 
 #submitbutton{
     color: #ffffff;
