@@ -17,17 +17,17 @@ function Header() {
                         <div className="collapse navbar-collapse justify-content-center " id="navbarNav">
                             <ul className="navbar-nav">
                                 <li className="nav-item">
-                                    <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
+                                    <Link to="/react-portfolio/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
                                         About
                                     </Link>
                                 </li>
                                 <li className="nav-item">
-                                    <Link to="/portfolio" className={location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}>
+                                    <Link to="/react-portfolio/portfolio" className={location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}>
                                         Portfolio
                                     </Link>
                                 </li>
                                 <li className="nav-item">
-                                    <Link to="/contact" className={location.pathname === "/contact" ? "nav-link active" : "nav-link"}>
+                                    <Link to="/react-portfolio/contact" className={location.pathname === "/contact" ? "nav-link active" : "nav-link"}>
                                         Contact
                                     </Link>
                                 </li>
