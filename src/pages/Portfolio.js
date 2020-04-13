@@ -12,7 +12,7 @@ function Portfolio() {
         <div class="row border content">
             <div class="col-12">
                 <h2>Portfolio</h2>
-                <div className="row">
+                <div className="row my-3">
                     <Project
                         key={0}
                         name="Eat Da Burger"
@@ -29,7 +29,7 @@ function Portfolio() {
                     />
                 </div>
 
-                <div className="row">
+                <div className="row my-3">
                     <Project
                         key={2}
                         name="Workout Tracker"
@@ -46,7 +46,7 @@ function Portfolio() {
                     />
                 </div>
 
-                <div className="row">
+                <div className="row my-3">
                     <Project
                         key={4}
                         name="Group Project 2"

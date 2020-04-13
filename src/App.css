@@ -63,20 +63,6 @@ footer{
     overflow: auto;
 }
 
-.projecttext{
-    position: absolute;
-    bottom: 10px;
-    width: 94.5%;
-    background-color: #4aaaa5;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    text-align: center;
-    font-size: 18px;
-}
-
-.projecttext a{
-    color: #ffffff;
-}
 
 #submitbutton{
     color: #ffffff;
