@@ -3,7 +3,7 @@ import Project from '../components/Project';
 import eatDaBurgerImage from '../assets/images/EatDaBurgerScreenshot.PNG';
 import BudgetTrackerImage from '../assets/images/BudgetTracker.PNG';
 import FitnessTrackerImage from '../assets/images/FitnessTracker.PNG';
-import NoteTakerImage from '../assets/images/NoteTaker.PNG';
+import GoogleBooksSearchImage from '../assets/images/GoogleBooksSearch.PNG';
 import Project1Image from '../assets/images/Project1.PNG';
 import Project2Image from '../assets/images/Project2.PNG';
 
@@ -15,34 +15,35 @@ function Portfolio() {
                 <div className="row my-3">
                     <Project
                         key={0}
+                        name="Google Books Search"
+                        image={GoogleBooksSearchImage}
+                        site="https://glacial-temple-14829.herokuapp.com/"
+                        github="https://github.com/kyle074613/google-books-search"
+                    />
+                    <Project
+                        key={1}
                         name="Eat Da Burger"
                         image={eatDaBurgerImage}
                         site="https://blooming-escarpment-01798.herokuapp.com/"
                         github="https://github.com/kyle074613/burger"
-                    />
-                    <Project
-                        key={1}
-                        name="Online/Offline Budget Tracker"
-                        image={BudgetTrackerImage}
-                        site="https://morning-chamber-52364.herokuapp.com/"
-                        github="https://github.com/kyle074613/online-offline-budget-tracker"
                     />
                 </div>
 
                 <div className="row my-3">
                     <Project
                         key={2}
+                        name="Online/Offline Budget Tracker"
+                        image={BudgetTrackerImage}
+                        site="https://morning-chamber-52364.herokuapp.com/"
+                        github="https://github.com/kyle074613/online-offline-budget-tracker"
+                    />
+
+                    <Project
+                        key={3}
                         name="Workout Tracker"
                         image={FitnessTrackerImage}
                         site="https://workout-tracker-bootcamp-app.herokuapp.com/"
                         github="https://github.com/kyle074613/workout-tracker"
-                    />
-                    <Project
-                        key={3}
-                        name="Note Taker"
-                        image={NoteTakerImage}
-                        site="https://afternoon-forest-27151.herokuapp.com/"
-                        github="https://github.com/kyle074613/note-taker"
                     />
                 </div>
 
