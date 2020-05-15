@@ -1,30 +1,30 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.0bd683b4.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.49915b92.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.49915b92.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.c1629709.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.c1629709.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.d92c7dfa.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.d92c7dfa.js.map",
     "static/js/2.40c606ad.chunk.js": "/react-portfolio/static/js/2.40c606ad.chunk.js",
     "static/js/2.40c606ad.chunk.js.map": "/react-portfolio/static/js/2.40c606ad.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.ecbceadcae0067292334db9814ce2309.js": "/react-portfolio/precache-manifest.ecbceadcae0067292334db9814ce2309.js",
+    "precache-manifest.6e40e4abf1d2e62be0863a90d8b21ce3.js": "/react-portfolio/precache-manifest.6e40e4abf1d2e62be0863a90d8b21ce3.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
     "static/css/main.0bd683b4.chunk.css.map": "/react-portfolio/static/css/main.0bd683b4.chunk.css.map",
     "static/js/2.40c606ad.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.40c606ad.chunk.js.LICENSE.txt",
     "static/media/BudgetTracker.PNG": "/react-portfolio/static/media/BudgetTracker.dcb97423.PNG",
-    "static/media/EatDaBurgerScreenshot.PNG": "/react-portfolio/static/media/EatDaBurgerScreenshot.5791edd5.PNG",
     "static/media/FitnessTracker.PNG": "/react-portfolio/static/media/FitnessTracker.ecefe0e0.PNG",
     "static/media/GoogleBooksSearch.PNG": "/react-portfolio/static/media/GoogleBooksSearch.1d56b3de.PNG",
     "static/media/Pic.jpg": "/react-portfolio/static/media/Pic.73acead8.jpg",
     "static/media/Project1.PNG": "/react-portfolio/static/media/Project1.baf120d6.PNG",
     "static/media/Project2.PNG": "/react-portfolio/static/media/Project2.3f38fe6d.PNG",
+    "static/media/SoPan.PNG": "/react-portfolio/static/media/SoPan.0c2bba3d.PNG",
     "static/media/App.css": "/react-portfolio/static/media/pipes.41310c25.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d92c7dfa.js",
     "static/js/2.40c606ad.chunk.js",
     "static/css/main.0bd683b4.chunk.css",
-    "static/js/main.49915b92.chunk.js"
+    "static/js/main.c1629709.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ee3c9ca103531ab6399d81b508a2f400",
+    "revision": "58e412e761d908dc50220514cb95fd3e",
     "url": "/react-portfolio/index.html"
   },
   {
-    "revision": "8e63583868d11a5032af",
+    "revision": "000a113bbee2b8aed34a",
     "url": "/react-portfolio/static/css/main.0bd683b4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/js/2.40c606ad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8e63583868d11a5032af",
-    "url": "/react-portfolio/static/js/main.49915b92.chunk.js"
+    "revision": "000a113bbee2b8aed34a",
+    "url": "/react-portfolio/static/js/main.c1629709.chunk.js"
   },
   {
     "revision": "c01136dc6b7e393f307b",
@@ -26,10 +26,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dcb974235a2424712de09c58fdf4a933",
     "url": "/react-portfolio/static/media/BudgetTracker.dcb97423.PNG"
-  },
-  {
-    "revision": "5791edd5278f63e2de4858f9e2dcfd0b",
-    "url": "/react-portfolio/static/media/EatDaBurgerScreenshot.5791edd5.PNG"
   },
   {
     "revision": "ecefe0e0da2c10e30f6221c8366204ab",
@@ -50,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3f38fe6dbae68964859d0f756ed70bfa",
     "url": "/react-portfolio/static/media/Project2.3f38fe6d.PNG"
+  },
+  {
+    "revision": "0c2bba3d3a80e3cb1260911e307abddc",
+    "url": "/react-portfolio/static/media/SoPan.0c2bba3d.PNG"
   },
   {
     "revision": "41310c25b26712d95b5ee78c1f880a31",
