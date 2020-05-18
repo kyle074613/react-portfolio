@@ -1,6 +1,6 @@
 # react-portfolio
 
-This website is a personal website. There is a page for information about me, a portfolio of my web development works, and a page to contact me (currently does not work). This website was created using React.
+This website is a personal website. There is a page for information about me, a portfolio of my web development works, and a page with ways to get in touch with me. This website was created using React.
 
 ## Usage
 
