@@ -4,27 +4,27 @@ function Contact() {
     return (
         <div className="row border content">
             <div className='col-12'>
-                <h2>Contact Me</h2>
+                <h2>My Information</h2>
+                <p>
+                    <a style={{ color: "#666666" }} rel="noopener noreferrer" target="_blank" href="mailto:kylemj@uci.edu">
+                        <i className="fas fa-envelope-square fa-2x"></i>
+                    </a>
+                    <a className="ml-2" style={{ color: "#4aaaa5" }} href="mailto:kylemj@uci.edu">Kylemj@uci.edu</a>
+                </p>
 
-                Name
-                <br />
-                <input className="nameinput w-100 my-1" type="text" name="FullName" placeholder="John Smith" />
+                <p>
+                    <a style={{ color: "#666666" }} rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/kyle-jones-049b61111/">
+                        <i className="fab fa-linkedin fa-2x"></i>
+                    </a>
+                    <a className="ml-2" style={{ color: "#4aaaa5" }} href="https://www.linkedin.com/in/kyle-jones-049b61111/">https://www.linkedin.com/in/kyle-jones-049b61111/</a>
+                </p>
 
-                <br />
-
-                Email
-                <br />
-                <input className="emailinput w-100 my-1" type="text" name="email" placeholder="example@gmail.com" />
-
-                <br />
-
-                Message
-                <br />
-                <textarea className="messageinput w-100 my-1" rows="10" cols="30" name="message"></textarea>
-
-                <br />
-
-                <input id="submitbutton" type="submit" name="Submit" />
+                <p>
+                    <a style={{ color: "#666666" }} rel="noopener noreferrer" target="_blank" href="https://github.com/kyle074613">
+                        <i className="fab fa-github-square fa-2x"></i>
+                    </a>
+                    <a className="ml-2" style={{ color: "#4aaaa5" }} href="https://github.com/kyle074613">https://github.com/kyle074613</a>
+                </p>
             </div>
         </div>
     )
