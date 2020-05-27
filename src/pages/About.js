@@ -13,22 +13,21 @@ function About() {
 
                 <p>
                     My name is Kyle Jones! I am a student at UC Irvine looking pursuing a
-                    career as a programmer. My relationship with computers goes back to the
+                    career as a web developer. My relationship with computers goes back to the
                     early days of my childhood. I was always using the family computer when
                     I was a kid - so much so that my mom had to put a time limit on my computer
                     usage! This love for computers has only grown stronger as I've grown up, and
                     learning more about them is a passion of mine. It is this passion that has led me
-                    on the path to become a professional programmer.
+                    on the path to become a professional web developer.
                     </p>
 
                 <p>
-                    I have studied computer science in pursuit of my passion for computers. I recieved an
+                    I recently graduated from the UC Irvine Coding Bootcamp, gaining skills in Full Stack Web Development.
+                    Through this program, I became proficient in web development languages and skills such as
+                    Javascript, HTML, CSS, MERN stack development, and MySQL. In addition to this, I have a background in computer science.
+                    I recieved an
                     Associate's Degree in computer science in 2018 from Irvine Valley College. I really enjoyed
-                    learning the different languages during the program. Sadly, the program only covered the basics
-                    of a lot of the languages. I was left with a desire to learn more after I had graduated, thus I
-                    joined the UC Irvine Coding Bootcamp to hone my skills, learn more coding languages, and
-                    hopefully
-                    set me on the path to become a professional programmer!
+                    learning the different languages during the program.
                     </p>
 
                 <p>
