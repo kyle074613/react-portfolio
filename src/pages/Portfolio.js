@@ -18,6 +18,7 @@ function Portfolio() {
                         name="SoPan"
                         image={SopanImage}
                         description="A place to hang out with your friends online. Users can watch youtube videos and chat together in real time."
+                        technologies="React, MongoDB, Express, Node.js, Socket.io, Mongoose, Auth0"
                         site="https://so-pan.herokuapp.com/"
                         github="https://github.com/hollyisaredhead/sopan"
                     />
@@ -26,6 +27,7 @@ function Portfolio() {
                         name="Trip Buddy"
                         image={Project1Image}
                         description="Travel app to help users plan their trips. Gives user a map of a route along with driving directions, as well as restaurants and activities to check out at their destination."
+                        technologies="HTML, CSS, JQuery"
                         site="https://tnowlan101.github.io/tnowlan101.github.io-Project1/"
                         github="https://github.com/tnowlan101/tnowlan101.github.io-Project1"
                     />
@@ -36,7 +38,8 @@ function Portfolio() {
                         key={2}
                         name="Project X"
                         image={Project2Image}
-                        description="A tool to help new web developers learn. Users have access to tutorial videos on web development languages, can ask questions, and look for solutions via Stack Overflow."
+                        description="A tool to help new web developers learn. Users have access to tutorial videos, can ask questions, and look for solutions via Stack Overflow."
+                        technologies="Handlebars, Express, Node.js, MySQL, Sequelize, JQuery"
                         site="https://sleepy-dusk-04483.herokuapp.com/html"
                         github="https://github.com/hollyisaredhead/project2"
                     />
@@ -46,6 +49,7 @@ function Portfolio() {
                         name="Google Books Search"
                         image={GoogleBooksSearchImage}
                         description="Users can search for books via Google Books and save them to a list to look at later on Google Books. Created using React.js."
+                        technologies="React, MongoDB, Express, Node.js, Mongoose"
                         site="https://glacial-temple-14829.herokuapp.com/"
                         github="https://github.com/kyle074613/google-books-search"
                     />
@@ -56,7 +60,8 @@ function Portfolio() {
                         key={4}
                         name="Online/Offline Budget Tracker"
                         image={BudgetTrackerImage}
-                        description="Budget tracking application that can be used either online or offline. Offline activity is updated once the user goes back online."
+                        description="Budget tracking progressive web app that can be used either online or offline. Offline activity is updated once the user goes back online."
+                        technologies="MongoDB, IndexedDB, Express, Node.js, Mongoose"
                         site="https://morning-chamber-52364.herokuapp.com/"
                         github="https://github.com/kyle074613/online-offline-budget-tracker"
                     />
@@ -65,6 +70,7 @@ function Portfolio() {
                         name="Workout Tracker"
                         image={FitnessTrackerImage}
                         description="This website allows users keep track of workouts and total workout duration, distances, weight lifted, etc. Made with MongoDB."
+                        technologies="MongoDB, Express, Node.js, Mongoose"
                         site="https://workout-tracker-bootcamp-app.herokuapp.com/"
                         github="https://github.com/kyle074613/workout-tracker"
                     />
