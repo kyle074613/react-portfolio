@@ -9,7 +9,7 @@ function Contact() {
                     <a style={{ color: "#666666" }} rel="noopener noreferrer" target="_blank" href="mailto:kylemj@uci.edu">
                         <i className="fas fa-envelope-square fa-2x"></i>
                     </a>
-                    <a className="ml-2" style={{ color: "#4aaaa5" }} href="mailto:kylemj@uci.edu">Kylemj@uci.edu</a>
+                    <a className="ml-2" style={{ color: "#4aaaa5" }} href="mailto:Kylemj018@gmail.com">Kylemj018@gmail.com</a>
                 </p>
 
                 <p>
