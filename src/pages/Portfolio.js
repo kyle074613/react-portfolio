@@ -19,7 +19,7 @@ function Portfolio() {
                         image={SopanImage}
                         description="A place to hang out with your friends online. Users can watch youtube videos and chat together in real time."
                         technologies="React, MongoDB, Express, Node.js, Socket.io, Mongoose, Auth0"
-                        site="https://so-pan.herokuapp.com/"
+                        site="https://sopan-app.herokuapp.com/"
                         github="https://github.com/hollyisaredhead/sopan"
                     />
                     <Project
