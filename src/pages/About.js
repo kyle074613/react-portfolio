@@ -12,7 +12,7 @@ function About() {
                 </div>
 
                 <p>
-                    My name is Kyle Jones! I am a student at UC Irvine looking pursuing a
+                    My name is Kyle Jones! I am a recent graduate from UC Irvine looking pursuing a
                     career as a web developer. My relationship with computers goes back to the
                     early days of my childhood. I was always using the family computer when
                     I was a kid - so much so that my mom had to put a time limit on my computer
